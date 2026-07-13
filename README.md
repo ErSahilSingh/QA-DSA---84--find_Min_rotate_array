@@ -20,4 +20,5 @@ var findMin = function(nums) {
             l=m+1
         }
     }
+    
 };
